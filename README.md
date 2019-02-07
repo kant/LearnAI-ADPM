@@ -12,7 +12,7 @@ No Azure prerequisites are required. But intermediate knowledge of Python (espec
 
 ## Setting up your environment
 
-The instuctor will provide a link to you that you can use for provisioning your environment.
+The instructor will provide a link to you that you can use for provisioning your environment.
 
 You can run these notebooks both on Azure Databricks and on Data Science Virtual Machines.  Please follow the below instructions for the environment you are working with: 
 
